@@ -1,50 +1,46 @@
 # MSDS610_final_project
-Introduction
-Duration: 1.5 minutes
 
-Welcome to our taste test experiment! In this session, we'll explore the intricacies of Coke and Pepsi preferences using a structured methodology.
+# Experimental Soda Taste Test
 
-Objectives:
-Introduce the experiment topic.
-Formulate null and alternative hypotheses.
-The Experiment
-Duration: 2 minutes
+## Introduction (1.5 minutes)
+- **Topic:** Experimental Soda Taste Test
+- **Objective:** Test preferences between cups labeled A and B.
 
-Taste Test:
+### Setting up the Experiment
+- Introduce the topic and experiment.
+- Formulate null and alternative hypotheses.
 
-Pass out labeled drinks (Cups A/B).
-Participants conduct a silent taste test.
-Each person records their preference discreetly.
-Data Collection:
+## The Experiment
 
-Collect A/B preference data.
-Display results on the board.
-Revelation:
+### Taste Test (2 minutes)
+- Distribute drinks without revealing their identity.
+- Participants taste and privately note their preferences.
+- Ensure no communication until the end of the test.
 
-Reveal which cup corresponds to each soda.
-Briefly comment on the data.
-Statistical Analysis
-Duration: 1.5 minutes
+### Data Collection (2 minutes)
+- Collect A/B preference frequency data on the board.
+- Reveal which cup corresponds to which soda.
+- Comment briefly on the data.
 
-Calculate Test Statistic:
+### Statistical Analysis (1.5 minutes)
+- Calculate test statistic and critical value.
+- **Sample Size (n):** 20 participants.
+- Use chi-squared test for categorical data.
+- Determine if the test statistic rejects the null hypothesis.
 
-Sample size (n): 20 (Adjusted for our setup).
-Conduct a chi-squared test.
-Conclusion:
+## Conclusion
 
-Compare test statistic with critical value.
-Reject or retain the null hypothesis.
-Experiment Limitations
-Our experiment depends on certain assumptions:
+### Limitations of the Experiment
+- **Independence of Observations:** Address how random sampling and assignment were used.
+- **Categorical Data:** Confirm that both variables are categorical.
+- **Large Sample Size:** Discuss the sufficiency of the sample size.
+- **Mutually Exclusive Categories:** Ensure each participant fits into one category for both variables.
 
-Independence of Observations: Ensured through random sampling and assignment.
-Categorical Data: Both variables (Coke/Pepsi preference) are categorical.
-Large Sample Size: Adequate to meet chi-squared distribution requirements.
-Mutually Exclusive Categories: Each participant fits into only one category.
-Note:
-Data Independence: Potential issue due to selection bias.
-Generalization: Applicable to our class but may not extend to the wider population.
-Questions and Answers
-Why Chi-Squared?
-Purpose: To analyze categorical data (Coke/Pepsi preferences).
-Function: Examines frequency distribution against null hypothesis expectations.
+### Generalization of Results
+- Acknowledge potential bias in the sample.
+- Conclude that results may apply to the class and cohort.
+
+### Potential Questions
+- Why use chi-squared?
+  - Explain its relevance to analyzing categorical data, specifically Coke and Pepsi preferences.
+
